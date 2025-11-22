@@ -61,7 +61,7 @@ Streamlit을 활용하여 대한민국 17개 시·도의 인구 데이터를 분
 ---
 
 ## 🎥 시연 영상
-- [YouTube 링크](https://youtube.com/예시링크)
+- (https://www.youtube.com/watch?v=_uFRg046Alc)
 
 ## 🌐 배포 링크
 - [Streamlit Cloud](https://streamlit.io/예시링크)
