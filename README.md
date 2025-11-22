@@ -67,13 +67,13 @@ Streamlit을 활용하여 대한민국 17개 시·도의 인구 데이터를 분
 - [Streamlit Cloud](https://streamlit.io/예시링크)
 
 ## 👥 팀원 소개
-- 차은우  
-- 변우석  
-- 석현  
+- 홍석현  
+- 조영재  
+- 
 
 ---
 
 ## 💻 실행 방법
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run project.py
